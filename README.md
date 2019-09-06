@@ -3,6 +3,7 @@ This game is called Amnesia: The Fatal Dream, a GameMaker competition game proje
 
 It has a Story mode and an endless Nightmare mode.
 
+# How to execute the game?
 The game can be played by executing the file located in Amnesia The Fatal Dream/Game File/Amnesia The Fatal Dream.exe.
 
 # Story Mode
