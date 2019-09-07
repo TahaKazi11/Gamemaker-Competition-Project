@@ -12,7 +12,7 @@ The story mode is a 4-5 level gamemode where the story is driven through the dia
 <img src = "storyimage.PNG">
 
 # Nightmare Mode
-The Nightmare mode is essentially an extension of the "survival" mode from the story mode. Here, it is an endless mode where the character has a health bar and the score increases with the amount of time the user "survives" (or the health bar is greater than 0). Health decreases everytime the character comes in contant with one of the monsters. The monsters follow the user and respawn. The user can use arrow keys to move and the mouse to shoot lasers at the monsters (which effectively kill the monsters).
+The Nightmare mode is essentially an extension of the "survival" mode from the story mode. Here, it is an endless mode where the character has a health bar and the score increases with the amount of time the user "survives" (or the health bar is greater than 0). Health decreases everytime the character comes in contant with one of the monsters. The monsters follow the user last known position at "spawn", and "respawn" after coming in contact with the "wall" or the character. The user can use arrow keys to move and the mouse to shoot lasers at the monsters (which effectively kill the monsters).
 
 <img src = "nightmareimage.PNG">
 
