@@ -1,4 +1,4 @@
-# gamemaker-competition-project
+# Gamemaker-Competition-Project
 This game is called Amnesia: The Fatal Dream, which is game project created for a GameMaker competition. It is using the GameMaker Engine and is a 2D platformer.
 
 It has a Story mode and an endless Nightmare mode.
